@@ -1,0 +1,25 @@
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+h2{
+  color: green;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  list-style: none;
+}
+
+ul{
+  font-family: monospace;
+}
+
+ol li{
+  display: list-item;
+  text-align: center;
+  font-weight: bolder;
+  list-style-position: inside;
+}
